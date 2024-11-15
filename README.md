@@ -95,5 +95,6 @@ endmodule
 ![Screenshot 2024-11-12 111318](https://github.com/user-attachments/assets/ca7fa790-2603-436f-97b5-60d814cab967)
 
 **Result:**
+
 Thus the basic logic gates are studied and the truth table are verified program 
 
