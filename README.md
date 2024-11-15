@@ -84,13 +84,16 @@ output[6:0]c;
 endmodule
  
 **Logic symbol & Truthtable**
-![Screenshot 2024-11-12 105055](https://github.com/user-attachments/assets/4cf390d3-9d97-44d4-b8ad-fc1418deb25b)
 
-**RTL realization OuR
-tput:** 
+
+**RTL realization Output:**
+
+![Screenshot 2024-11-12 105055](https://github.com/user-attachments/assets/4cf390d3-9d97-44d4-b8ad-fc1418deb25b)
 
 **RTL**
 
-**Result:**
+![Screenshot 2024-11-12 111318](https://github.com/user-attachments/assets/ca7fa790-2603-436f-97b5-60d814cab967)
 
+**Result:**
+Thus the basic logic gates are studied and the truth table are verified program 
 
